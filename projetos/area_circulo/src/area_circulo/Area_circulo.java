@@ -12,7 +12,7 @@ public class Area_circulo {
         Scanner input = new Scanner(System.in);
         
         System.out.println("Qual o raio do círculo?");
-        r = input.nextFloat();
+        r = input.nextDouble();
         
         A = ( 3.14 * Math.pow(r,2)); // calcula a área
         
