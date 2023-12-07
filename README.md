@@ -10,3 +10,4 @@
  <li><a href="https://www.jdoodle.com/online-java-compiler/">JDoodle (online)</a></li>
 </ul>
 <p>Também recomendo utilizar o <a href="https://www.oracle.com/java/technologies/downloads/#java17">Java 17</a>.</p>
+Alguns projetos são do site https://www.codewars.com
